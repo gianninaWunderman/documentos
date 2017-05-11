@@ -30,7 +30,8 @@ compile project(':react-native-streamingkit')
 compile project(':react-native-music-control')
 ```
 
-
+#
+#
 ## IOS
 #### Modificar Imports sacar <'/React/......h' >
 ##### node_modules/react-native-firebase-crash-report/ios/RNFirebaseCrashReport/RNFirebaseCrashReport.m
@@ -42,7 +43,7 @@ compile project(':react-native-music-control')
 #import "RCTUtils.h",
 ```
 
-##### /node_modules/react-native-firebase-crash-report/ios/RNFirebaseCrashReport/RNFirebaseCrashReport.m:9:9: In file included from /Users/calcagnog/Projects/FriMovistar/movi-musica/node_modules/react-native-firebase-crash-report/ios/RNFirebaseCrashReport/RNFirebaseCrashReport.m:9:
+##### /node_modules/react-native-firebase-crash-report/ios/RNFirebaseCrashReport/RNFirebaseCrashReport.m:9:
 ```
 #import <Foundation/Foundation.h>
 #import "RCTBridgeModule.h"
